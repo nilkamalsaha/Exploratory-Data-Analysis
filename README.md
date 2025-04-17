@@ -31,3 +31,11 @@ You can filter a DataFrame by passing a logical test into the loc [ ] accessor
 You can sort a DataFrame by using the .sort_values() method
 
 • This sorts in ascending order by default
+
+# Grouping
+
+The “split-apply-combine” approach is used to group data in a DataFrame and apply calculations to each group
+
+• You can group a DataFrame by using the .groupby() method
+![image](https://github.com/user-attachments/assets/05621aa9-e0d6-4918-8685-1178fcbd0a39)
+
