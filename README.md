@@ -60,7 +60,7 @@ Thanks!
 
 ## Key Objectives
 
-1. Filter out any data before 2010 and after 2019
+1. Filter out any data after 2010 and before 2020
 2. Group the data by country and calculate the maximum happiness score for each one
 3. Sort the grouped countries by happiness score and return the top five
 4. Group the data by country and calculate the average happiness score for each one
