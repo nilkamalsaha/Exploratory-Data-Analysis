@@ -39,3 +39,30 @@ The “split-apply-combine” approach is used to group data in a DataFrame and 
 • You can group a DataFrame by using the .groupby() method
 ![image](https://github.com/user-attachments/assets/05621aa9-e0d6-4918-8685-1178fcbd0a39)
 
+# Assignment: Exploring Data
+
+From: Anna Analysis(Senior Data Scientist)
+
+Subject: Happiest Countries of the 2010s?
+
+Hi, 
+
+The marketing team would like to share out the five happiest countries of the 2010s on social media. I’ve attached a notebook that another data scientist started with happiness data inside. I would recommend:
+
+• Creating a list of each country’s highest happiness score,
+and then sorting it from happiest to least happy country
+
+• Creating a list of each country’s average happiness score,
+and then sorting it from happiest to least happy country
+Are there any differences between the two lists?
+
+Thanks!
+
+## Key Objectives
+
+1. Filter out any data before 2010 and after 2019
+2. Group the data by country and calculate the maximum happiness score for each one
+3. Sort the grouped countries by happiness score and return the top five
+4. Group the data by country and calculate the average happiness score for each one
+5. Sort the grouped countries by happiness score and return the top five
+6. Compare the two lists
