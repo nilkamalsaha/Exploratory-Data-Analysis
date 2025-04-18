@@ -94,3 +94,5 @@ These are some common distributions you’ll encounter as a data scientist:
 -  Binomial distribution
 -  Uniform distribution
 -  Poisson distribution
+
+PRO TIP: Distributions can be used to find inconsistencies and outliers
