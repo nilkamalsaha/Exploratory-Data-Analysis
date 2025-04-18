@@ -18,21 +18,21 @@ Examples->
 • Scatterplots
 • Pair plots
 
-### Note: We will discuss each technique seperately with practical examples and attached files are available. 
+# Exploring data
 
-# Filtering
+## Filtering
 
 You can filter a DataFrame by passing a logical test into the loc [ ] accessor
 
 • Apply multiple filters by using the “&” and “|” operators (AND/OR)
 
-# Sorting
+## Sorting
 
 You can sort a DataFrame by using the .sort_values() method
 
 • This sorts in ascending order by default
 
-# Grouping
+## Grouping
 
 The “split-apply-combine” approach is used to group data in a DataFrame and apply calculations to each group
 
@@ -66,3 +66,13 @@ Thanks!
 4. Group the data by country and calculate the average happiness score for each one
 5. Sort the grouped countries by happiness score and return the top five
 6. Compare the two lists
+
+# Visualizing data
+
+## Data visualization in Pandas
+
+You can use the .plot() method to create quick and simple visualizations directly from a Pandas DataFrame
+
+## Pair Plots
+
+Use sns.pairplot() to create a pair plot that shows all the scatterplots and histograms that can be made using the numeric variables in a DataFrame
