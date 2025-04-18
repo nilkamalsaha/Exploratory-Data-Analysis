@@ -96,3 +96,31 @@ These are some common distributions you’ll encounter as a data scientist:
 -  Poisson distribution
 
 PRO TIP: Distributions can be used to find inconsistencies and outliers
+
+# ASSIGNMENT: DISTRIBUTIONS
+
+From: Sarah Song (Music Analysis Team)
+
+Subject: Musical Attribute Distributions
+
+Hi,
+
+Our music analysis team has labeled 100 songs with their musical attributes, such as its danceability and energy.
+
+Can you tell us more about the distributions of the musical attributes? I’m guessing that since most of the musical attributes are numeric, they should be normally distributed, but let me know if you see otherwise.
+
+Thanks!
+
+
+## Key Objectives
+
+1. Import the seaborn library
+2. Create a pair plot
+3. Interpret the histograms
+   
+   - Which fields are normally distributed?
+   - Which fields have other distributions?
+   - Do you see any skew?
+   - Do you see any outliers?
+   - Any other observations?
+   - Do your interpretations make sense?
