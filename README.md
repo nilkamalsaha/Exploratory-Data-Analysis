@@ -18,7 +18,7 @@ Examples->
 • Scatterplots
 • Pair plots
 
-### Note: We will discuss each technique seperate with practical examples and attached files are available. 
+### Note: We will discuss each technique seperately with practical examples and attached files are available. 
 
 # Filtering
 
