@@ -80,3 +80,10 @@ Use sns.pairplot() to create a pair plot that shows all the scatterplots and his
 
 ![image](https://github.com/user-attachments/assets/ae62d677-0c87-4022-a6be-c2d977d886e8)
 
+## Distributions
+
+A distribution shows all the possible values in a column and how often each occurs. It can be shown in two ways:
+
+A. Frequency table: You can create a frequency table with the .value_counts() method
+
+B. Histogram: You can create a histogram by passing a DataFrame column to sns.histplot()
