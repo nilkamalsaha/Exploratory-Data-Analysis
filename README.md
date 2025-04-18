@@ -87,3 +87,10 @@ A distribution shows all the possible values in a column and how often each occu
 A. Frequency table: You can create a frequency table with the .value_counts() method
 
 B. Histogram: You can create a histogram by passing a DataFrame column to sns.histplot()
+
+These are some common distributions you’ll encounter as a data scientist:
+
+-  Normal distribution
+-  Binomial distribution
+-  Uniform distribution
+-  Poisson distribution
