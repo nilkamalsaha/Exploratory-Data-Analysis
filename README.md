@@ -76,3 +76,7 @@ You can use the .plot() method to create quick and simple visualizations directl
 ## Pair Plots
 
 Use sns.pairplot() to create a pair plot that shows all the scatterplots and histograms that can be made using the numeric variables in a DataFrame
+
+
+![image](https://github.com/user-attachments/assets/ae62d677-0c87-4022-a6be-c2d977d886e8)
+
