@@ -124,3 +124,40 @@ Thanks!
    - Do you see any outliers?
    - Any other observations?
    - Do your interpretations make sense?
+
+## ScatterPlots
+
+Scatterplots are used to visualize the relationship between numerical variables
+
+• sns.scatterplot(data=df, x="x axis column", y=“y axis column")
+
+## Correlation
+
+A correlation describes the relationship between two numerical columns (-1 to 1)
+
+• -1 is a perfect negative correlation, 0 is no correlation, and 1 is a perfect positive correlation
+
+Use the .corr() method to calculate the correlation coefficient between each pair of numerical variables in a DataFrame
+
+• A correlation under 0.5 is weak, between 0.5 and 0.8 is moderate, and over 0.8 is strong
+
+# ASSIGNMENT: CORRELATIONS
+
+Hi again,
+
+Thanks for looking into those distributions earlier. Can you also tell us more about the correlations of the musical attributes?
+
+Can you tell us about any relationships between the attributes, like if some are positively or negatively correlated?
+
+Thanks!
+
+## Key Objectives
+
+1. Look at the previously created pair plot
+3. Interpret the scatterplots
+   
+   - Which fields are highly correlated?
+   - Which fields are uncorrelated?
+   - Which fields have positive or negative correlations?
+   - Any other observations?
+   - Do your interpretations make sense?
